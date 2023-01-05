@@ -12,7 +12,7 @@ According to https://www.asd-europe.org/s1000d:
 ## How to start
 
 - [ ] Install oXygenXML **Author** (evaluation version can be downloaded on [www.oxygenxml.com](https://www.oxygenxml.com/xml_author.html))
-- [ ] Install the oXygen S1000D framework by downloading the ZIP content https://github.com/Amplexor/oxygen-asd-s1000d/archive/master.zip or by cloning the current Github project `git clone https://github.com/Amplexor/oxygen-asd-s1000d.git` 
+- [ ] Install the oXygen S1000D framework by downloading the ZIP content https://github.com/acolad-digital/oxygen-asd-s1000d/archive/master.zip or by cloning the current Github project `git clone https://github.com/acolad-digital/oxygen-asd-s1000d.git` 
 - [ ] Download the S1000D specifications package, containing schemas at [S1000D Downloads](http://s1000d.org/Downloads/Pages/S1000DDownloads.aspx). Select the issue number you need among 4.0 / 4.1 /4.2.
 
   Please note the schemas are not embedded in the distribution of the framework; you need to download them (freely) from the above S1000D website. 
@@ -20,7 +20,7 @@ According to https://www.asd-europe.org/s1000d:
 - [ ] Open (double-click) the asd-s1000d.xpr oXygenXML project. You should now able to author S1000D documents. Sample files are provided in the specification package, in the "_Bike data set_" subfolder.
 - [ ] To display the CGM images, you may install the [CGM add-on from oXygenXML](https://www.oxygenxml.com/doc/versions/20.1/ug-editor/topics/cgm-addon.html).
 
-This framework is provided to you by [AMPLEXOR](https://www.amplexor.com).
+This framework is provided to you by [Acolad Digital](https://www.acolad.com/en/digital.html).
 
 
 # Limitations
@@ -44,7 +44,7 @@ No warranty of any kind is provided. You can however open issues in the [GitHub 
 
 # Copyright and licence
 
-Copyright (C) 2018-2019 AMPLEXOR
+Copyright (C) 2022-2023 Acolad Digital
 
 This project is licensed under [Apache License 2.0](LICENSE.txt)
 
